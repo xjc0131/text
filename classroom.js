@@ -1,2 +1,2 @@
 var str = "string";
-alert("str");
+alert(str);
