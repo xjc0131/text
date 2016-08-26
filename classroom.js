@@ -1,2 +1,2 @@
-var str = "欢迎来到我的页面！";
+var str = "欢迎来到我的主页！";
 alert(str);
